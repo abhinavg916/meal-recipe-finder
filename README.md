@@ -1,4 +1,4 @@
-# Dish Recipe Finder
+# Meal Recipe Finder
 - A web page, where you can enter the name of a dish that you want information  (or recipe) on into a search input field. Once you find the required information (or recipe), you can display it on the web page.
 - API provided by [TheMealDB](https://www.themealdb.com/)
 
@@ -9,11 +9,15 @@
 
 ## Previews
 ### Search Bar
-![Search Bar]()
+![Search Bar](https://github.com/abhinavg916/dish-recipe-finder/blob/master/Search%20Bar.png)
 ### Search Results 
-![Search Results]()
+![Search Results](https://github.com/abhinavg916/dish-recipe-finder/blob/master/Search%20Result.png)
 ### Error Page
-![Error Page]()
+![Error Page](https://github.com/abhinavg916/dish-recipe-finder/blob/master/Error%20Page.png)
+
+## To Do
+* [x] Update CSS
+* [ ] Improve UI/UX
 
 ---
 
