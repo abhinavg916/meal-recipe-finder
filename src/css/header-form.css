@@ -1,20 +1,24 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-.header-container{
+
+.header-container {
     text-align: center;
 }
-.heading{
+
+.heading {
     font-size: 3rem;
     color: #222;
 }
-.input-form{
+
+.input-form {
     margin: 10px;
     padding: 5px;
 }
-.input-form input[type=text]{
+
+.input-form input[type=text] {
     padding: 8px 20px;
     background-color: transparent;
     border: 1.5px solid #93a;
@@ -23,10 +27,12 @@
     font-size: 1.2rem;
     top: 3px;
 }
-.input-form input[type=text]:focus{
+
+.input-form input[type=text]:focus {
     outline: none;
 }
-.input-form input[type=submit]{
+
+.input-form input[type=submit] {
     font-size: 1.1rem;
     margin-left: 20px;
     padding: 10px;
@@ -35,6 +41,7 @@
     color: #eee;
     cursor: pointer;
 }
-.center{
+
+.center {
     text-align: center;
 }
