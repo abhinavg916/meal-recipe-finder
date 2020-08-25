@@ -3,7 +3,7 @@
 - API provided by [TheMealDB](https://www.themealdb.com/)
 
 ## Tech Used
-* ReactJs (Use of Components, Props, States, Context API and React Router)
+* ReactJs (Use of Components, Props, States, Axios and React Router)
 * CSS
 * HTML
 
