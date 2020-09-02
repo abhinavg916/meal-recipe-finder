@@ -7,6 +7,7 @@
 - CSS
 - HTML
 
+<!--
 ## Previews
 ### Search Bar
 ![Search Bar](https://github.com/abhinavg916/dish-recipe-finder/blob/master/Search%20Bar.png)
@@ -14,6 +15,7 @@
 ![Search Results](https://github.com/abhinavg916/dish-recipe-finder/blob/master/Search%20Result.png)
 ### Error Page
 ![Error Page](https://github.com/abhinavg916/dish-recipe-finder/blob/master/Error%20Page.png)
+-->
 
 ## To Do
 * [x] Update CSS
