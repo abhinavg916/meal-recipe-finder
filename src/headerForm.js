@@ -40,9 +40,13 @@ class HeaderForm extends Component {
             />
           </form>
         </div>
-        {
-            this.state.searched ? (<RecipeBody foodItem={this.state.foodItem} />) : (<h2 className="center">Type a Dish Name to search for its ingredients</h2>)
-        }
+        {this.state.searched ? (
+          <RecipeBody foodItem={this.state.foodItem} />
+        ) : (
+          <h2 className="center">
+            Type a Dish Name to search for its ingredients
+          </h2>
+        )}
       </div>
     );
   }
